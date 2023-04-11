@@ -5,6 +5,7 @@
     this is a comment stock
 """
 import os
+import sys
 print("hello world")
 print("this is amazing.")
 if __name__ == "__main__":
