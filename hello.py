@@ -5,7 +5,7 @@
     this is a comment stock
     i love mythical animals.
 """
-import os
+import os,sys
 print("hello world")
 print("this is amazing.")
 
