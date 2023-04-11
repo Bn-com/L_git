@@ -3,11 +3,10 @@
 #author : zhangben
 """
     this is a comment stock
-    i love mythical animals.
 """
-import os,sys
+import os
+import sys
 print("hello world")
 print("this is amazing.")
-
 if __name__ == "__main__":
     print("em...")
