@@ -1,0 +1,3 @@
+[submodule "LAN_rep/test"]
+	path = LAN_rep/test
+	url = //192.168.2.5/GitTest/test
